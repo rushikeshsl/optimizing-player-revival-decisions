@@ -134,19 +134,9 @@ Used to identify which specific variants differed significantly after Kruskal-Wa
 
 # Analysis
 
-The experiment analysis focused on evaluating how different revive-screen strategies influenced:
+The complete experimentation workflow, statistical testing, and behavioral analysis can be explored in the Jupyter Notebook below:
 
-* revival acceptance behavior,
-* gameplay continuation,
-* and overall engagement quality.
-
-The following analyses were conducted:
-
-* Descriptive analysis
-* Funnel analysis
-* Hypothesis testing
-* Effect size analysis
-* Variant comparison analysis
+➡️ [View Full Analysis Notebook](./analysis.ipynb)
 
 ---
 
