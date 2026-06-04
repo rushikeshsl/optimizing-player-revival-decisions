@@ -209,9 +209,9 @@ Overall, the findings suggested that emotionally-driven behavioral interventions
 
 # Final Recommendation
 
-Based on the experimental findings, Variant 2 (Emotional Framing) is recommended as the optimal revive-screen strategy for rollout.
+Based on the experimental findings, **Variant 2 (Emotional Framing)** is recommended as the optimal revive-screen strategy for rollout.
 
-Although Variant 3 generated the highest revival acceptance rate (43.81%), Variant 2 produced the strongest meaningful gameplay continuation with an average of 1.95 additional gameplay minutes per session, significantly outperforming all other variants.
+Although Variant 3 generated the highest revival acceptance rate **(43.81%)**, Variant 2 produced the strongest meaningful gameplay continuation with an average of **1.95** additional gameplay minutes per session, significantly outperforming all other variants.
 
 The analysis demonstrated that emotionally-driven behavioral interventions created healthier and more sustainable engagement behavior compared to urgency-based messaging, which primarily optimized short-term revive conversions.
 
