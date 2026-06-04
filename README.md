@@ -35,7 +35,9 @@ After reviewing the existing revive screen, several UX and behavioral issues wer
 * absence of emotional motivation,
 * and no urgency or behavioral trigger encouraging continuation.
 
-![Control](visuals/control.png)
+<p align="center">
+  <img src="visuals/control.png" alt="Description of image">
+</p>
 
 As a result, players were more likely to exit the session immediately after failure rather than continue playing.
 
