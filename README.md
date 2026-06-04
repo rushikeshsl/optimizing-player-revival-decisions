@@ -152,8 +152,6 @@ The following analyses were conducted:
 
 # Key Findings
 
-# 🔍 Key Findings
-
 ## 1. North Star Metric — Average Additional Gameplay Time Per Session
 
 Variant 2 (Emotional Framing) generated the strongest gameplay continuation across all experimental groups with an average of **1.95 additional gameplay minutes per session**, significantly outperforming:
@@ -211,9 +209,10 @@ Overall, the findings suggested that emotionally-driven behavioral interventions
 
 # Final Recommendation
 
-Based on the experimental findings, **Variant 2 (Emotional Framing)** was identified as the most effective revive-screen strategy.
+Based on the experimental findings, Variant 2 (Emotional Framing) is recommended as the optimal revive-screen strategy for rollout.
 
-Although Variant 3 generated the highest revive clicks, Variant 2 produced stronger meaningful gameplay continuation and healthier engagement quality after revival.
+Although Variant 3 generated the highest revival acceptance rate (43.81%), Variant 2 produced the strongest meaningful gameplay continuation with an average of 1.95 additional gameplay minutes per session, significantly outperforming all other variants.
 
-The final recommendation was to prioritize behavioral strategies that improve long-term player engagement rather than optimizing only for short-term revive conversions.
+The analysis demonstrated that emotionally-driven behavioral interventions created healthier and more sustainable engagement behavior compared to urgency-based messaging, which primarily optimized short-term revive conversions.
 
+Therefore, the recommended product strategy is to prioritize revive-screen experiences that maximize meaningful player engagement rather than focusing only on immediate revive clicks.
