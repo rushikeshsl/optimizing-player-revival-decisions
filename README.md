@@ -152,13 +152,60 @@ The following analyses were conducted:
 
 # Key Findings
 
-* Variant 1 improved revive discoverability through better visual hierarchy and increased revival acceptance compared to the control group.
+# 🔍 Key Findings
 
-* Variant 2 generated the strongest meaningful gameplay continuation after revival, indicating that emotional framing created healthier engagement behavior.
+## 1. North Star Metric — Average Additional Gameplay Time Per Session
 
-* Variant 3 produced the highest revival acceptance rate, but users showed weaker gameplay continuation quality compared to Variant 2.
+Variant 2 (Emotional Framing) generated the strongest gameplay continuation across all experimental groups with an average of **1.95 additional gameplay minutes per session**, significantly outperforming:
 
-* The findings demonstrated that the variant generating the highest immediate conversion was not necessarily the variant producing the healthiest long-term engagement.
+* Control (**0.49 minutes**),
+* Variant 1 (**0.94 minutes**),
+* and Variant 3 (**1.18 minutes**).
+
+When analyzing only players who accepted revival:
+
+* Variant 2 users continued gameplay for an average of **5.09 minutes** after revival,
+  compared to:
+* Control (**2.12 minutes**),
+* Variant 1 (**2.98 minutes**),
+* and Variant 3 (**2.70 minutes**).
+
+These findings indicated that emotional framing generated the healthiest and most meaningful gameplay continuation behavior among all revive-screen strategies.
+
+---
+
+## 2. Primary Metric — Revival Acceptance Rate
+
+Variant 3 (Urgency-Based Messaging) produced the highest revival acceptance rate at **43.81%**, demonstrating that urgency and scarcity mechanics were highly effective at driving immediate player actions.
+
+Revival acceptance rates across variants were:
+
+* Control → **23.30%**
+* Variant 1 → **31.60%**
+* Variant 2 → **38.28%**
+* Variant 3 → **43.81%**
+
+Variant 1 also showed a meaningful improvement over the Control group, suggesting that stronger visual hierarchy and CTA visibility positively influenced revive decisions.
+
+---
+
+## 3. Overall Findings
+
+The experiment demonstrated that the variant generating the highest immediate revive conversion was not necessarily the variant producing the healthiest gameplay continuation behavior.
+
+Although Variant 3 generated the highest revive clicks, Variant 2 produced significantly stronger gameplay continuation and healthier engagement quality overall.
+
+Statistical testing confirmed that the observed differences between variants were statistically significant:
+
+* Chi-Square Test showed significant differences in revival acceptance behavior across variants
+  (**χ² = 781.41, p < 0.001**).
+* Kruskal-Wallis Test confirmed significant differences in gameplay continuation distributions
+  (**H = 1348.65, p < 0.001**).
+* Dunn’s Post-Hoc Test identified statistically significant pairwise differences between all experimental groups.
+
+(Distribution analysis also revealed that gameplay continuation data was highly skewed and zero-inflated. As a result, non-parametric statistical methods were used instead of traditional ANOVA testing.)
+
+Overall, the findings suggested that emotionally-driven behavioral interventions produced stronger sustainable engagement outcomes compared to aggressive urgency-based interactions.
 
 ---
 
