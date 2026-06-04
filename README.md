@@ -35,6 +35,8 @@ After reviewing the existing revive screen, several UX and behavioral issues wer
 * absence of emotional motivation,
 * and no urgency or behavioral trigger encouraging continuation.
 
+![Control](visuals/control.png)
+
 As a result, players were more likely to exit the session immediately after failure rather than continue playing.
 
 To address this problem, the company decided to conduct a multivariate A/B testing experiment to evaluate whether behavioral design interventions could improve meaningful post-failure engagement and revival decisions.
