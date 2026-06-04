@@ -6,6 +6,10 @@ A behavioral A/B testing case study focused on optimizing revive-screen strategi
 
 ---
 
+<p align="center">
+  <img src="visuals/logo.png" alt="Description of image">
+</p>
+
 # Project Overview
 
 This project is based on an experimentation scenario for the casual gaming company **“Offline Games – No Wifi Games”**. The company was experiencing a decline in revival acceptance rates and meaningful gameplay continuation after players reached the “Game Over” screen.
