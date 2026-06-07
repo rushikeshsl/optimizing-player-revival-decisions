@@ -7,7 +7,7 @@ A behavioral A/B testing case study focused on optimizing revive-screen strategi
 ---
 
 <p align="center">
-  <img src="visuals/logo.png" alt="Logo" width= 300>
+  <img src="visuals/logo.png" alt="Logo" width= 200>
 </p>
 
 # Project Overview
@@ -40,7 +40,7 @@ After reviewing the existing revive screen, several UX and behavioral issues wer
 * and no urgency or behavioral trigger encouraging continuation.
 
 <p align="center">
-  <img src="visuals/control.png" alt="control" width= 300>
+  <img src="visuals/control.png" alt="control" width= 200>
 </p>
 
 As a result, players were more likely to exit the session immediately after failure rather than continue playing.
@@ -92,7 +92,7 @@ The hypothesis was that redesigning the revive screen using behavioral intervent
 | Variant 3 | Urgency-based messaging       |
 
 <p align="center">
-  <img src="visuals/variants.png" alt="Logo" width= 300>
+  <img src="visuals/variants.png" alt="Logo" width= 400>
 </p>
 
 Each variant was designed to test a single behavioral intervention independently.
