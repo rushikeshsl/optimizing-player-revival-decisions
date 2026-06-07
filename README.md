@@ -150,6 +150,8 @@ Variant 2 (Emotional Framing) generated the strongest gameplay continuation acro
 * Variant 1 (**0.94 minutes**),
 * and Variant 3 (**1.18 minutes**).
 
+<img src="visuals/additional_minutes_chart.png" alt="addtional_minutes_chart" width="300">
+
 When analyzing only players who accepted revival:
 
 * Variant 2 users continued gameplay for an average of **5.09 minutes** after revival,
