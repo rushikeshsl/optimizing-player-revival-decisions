@@ -7,7 +7,7 @@ A behavioral A/B testing case study focused on optimizing revive-screen strategi
 ---
 
 <p align="center">
-  <img src="visuals/logo.png" alt="Description of image">
+  <img src="visuals/logo.png" alt="Logo" width= 500>
 </p>
 
 # Project Overview
@@ -40,7 +40,7 @@ After reviewing the existing revive screen, several UX and behavioral issues wer
 * and no urgency or behavioral trigger encouraging continuation.
 
 <p align="center">
-  <img src="visuals/control.png" alt="Description of image">
+  <img src="visuals/control.png" alt="control" width= 500>
 </p>
 
 As a result, players were more likely to exit the session immediately after failure rather than continue playing.
@@ -151,7 +151,7 @@ Variant 2 (Emotional Framing) generated the strongest gameplay continuation acro
 * and Variant 3 (**1.18 minutes**).
 
 <p align="center">
-  <img src="visuals/additional_minutes_chart.png" alt="addtional_minutes_chart" width="800">
+  <img src="visuals/additional_minutes_chart.png" alt="addtional_minutes_chart" width="600">
 </p>
 
 When analyzing only players who accepted revival:
@@ -176,6 +176,10 @@ Revival acceptance rates across variants were:
 * Variant 1 → **31.60%**
 * Variant 2 → **38.28%**
 * Variant 3 → **43.81%**
+
+<p align="center">
+  <img src="visuals/revival.png" alt="revival_chart" width="600">
+</p>
 
 Variant 1 also showed a meaningful improvement over the Control group, suggesting that stronger visual hierarchy and CTA visibility positively influenced revive decisions.
 
