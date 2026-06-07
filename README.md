@@ -91,7 +91,9 @@ The hypothesis was that redesigning the revive screen using behavioral intervent
 | Variant 2 | Emotional framing             |
 | Variant 3 | Urgency-based messaging       |
 
-![Control](visuals/variants.png)
+<p align="center">
+  <img src="visuals/variants.png" alt="Logo" width= 300>
+</p>
 
 Each variant was designed to test a single behavioral intervention independently.
 
