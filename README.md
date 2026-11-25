@@ -103,8 +103,9 @@ Each variant was designed to test a single behavioral intervention independently
 
 | Metric Type       | Metric                                       |
 | ----------------- | -------------------------------------------- |
-| North Star Metric | Average Additional Gameplay Time Per Session |
-| Primary Metric    | Revival Acceptance Rate                      |
+| Primary Metric    | Average Additional Gameplay Time Per Session |
+| Secondary Metric  | Revival Acceptance Rate                      |
+| Guardrail Metric  | Session Abandonment Rate                     |
 
 ---
 
