@@ -145,7 +145,7 @@ The complete experimentation workflow, statistical testing, and behavioral analy
 
 # Key Findings
 
-## 1. North Star Metric — Average Additional Gameplay Time Per Session
+## 1. Primary Metric — Average Additional Gameplay Time Per Session
 
 Variant 2 (Emotional Framing) generated the strongest gameplay continuation across all experimental groups with an average of **1.95 additional gameplay minutes per session**, significantly outperforming:
 
@@ -169,7 +169,7 @@ These findings indicated that emotional framing generated the healthiest and mos
 
 ---
 
-## 2. Primary Metric — Revival Acceptance Rate
+## 2. Secondary Metric — Revival Acceptance Rate
 
 Variant 3 (Urgency-Based Messaging) produced the highest revival acceptance rate at **43.81%**, demonstrating that urgency and scarcity mechanics were highly effective at driving immediate player actions.
 
